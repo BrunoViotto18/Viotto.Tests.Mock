@@ -1,0 +1,10 @@
+# IDE
+
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# DOTNET
+
+**/bin/
+**/obj/
